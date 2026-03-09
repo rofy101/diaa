@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448226562605",
+    "project_id": "diaa-6e549",
+    "storage_bucket": "diaa-6e549.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448226562605:android:fe90b8009a473326901ea4",
+        "android_client_info": {
+          "package_name": "com.example.edu_smart_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXT1bs4xfyChlAGE9LLPn0_VCk_Yc-z6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
